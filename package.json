@@ -1,0 +1,15 @@
+{
+  "name": "teste-robo",
+  "version": "1.0.0",
+  "description": "Projeto teste do robo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Anacretto <tanacretto@confidencecambio.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
